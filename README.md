@@ -12,6 +12,8 @@
 | ![Voxgig](https://www.voxgig.com/res/img/vgt01r.png) | This open source module is sponsored and supported by [Voxgig](https://www.voxgig.com). |
 |---|---|
 
+A [Seneca.js](http://senecajs.org) plugin that adds ownership and access control to entities.
+
 ## Install
 
 ```sh
