@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+*~
+coverage.html
+
+package-lock.json
+
